@@ -2169,7 +2169,7 @@ ul.navbar-nav > li.header-get-a-quote {
   #back-to-top.affix {
     bottom: 78px;
   }
-  /* Copyright */
+
   .copyright-text {
     text-align: center;
   }
@@ -2181,13 +2181,12 @@ ul.navbar-nav > li.header-get-a-quote {
     bottom: 0;
     right: 20px;
   }
-  /* Block title */
+
   .news-style-two .nav-tabs > li > a {
     font-size: 12px;
   }
-  /* Category style */
+  
   .category-style2 .post-thumbnail {
     margin-bottom: 20px;
   }
 }
-
